@@ -1,0 +1,7 @@
+{
+  "name": "Points",
+  "description": "تطبيق لتسجيل حضور وغياب ونقاط اجتماع الشباب باستخدام QR Code. مصمم ليكون سهل الاستخدام وفعال.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
